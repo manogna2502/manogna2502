@@ -1,7 +1,7 @@
 - Hi, I’m Manogna Mahesh!  
 - 😄 Pronouns: *She/Her*  
 - 💻 I'm a passionate Frontend Developer with a love for building scalable applications and solving problems.  
-- 🛠️ I enjoy working with Figma, AWS Console, Hugging Face, Gradio and Python.  
+- 🛠️ I enjoy working with Figma, AWS Console, Hugging Face, Gradio,PowerBi and Python.  
 - 🌱 I’m currently learning JavaScript to expand my skill set.  
 
 <!---
